@@ -1,8 +1,8 @@
-# Draw Steel Server
+Draw Steel Server
 
 This is a simple server built using FastAPI.
 
-## Setup
+Setup
 
 1. Clone the repository:
     ```sh
